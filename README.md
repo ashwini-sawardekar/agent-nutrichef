@@ -45,7 +45,7 @@ The agents are equipped with the following tools to perform their complex tasks:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/NutriChef.git](https://github.com/yourusername/NutriChef.git)
+    git clone [https://github.com/ashwini-sawardekar/agent-nutrichef.git](https://github.com/ashwini-sawardekar/agent-nutrichef.git)
     cd NutriChef
     ```
 2.  Install dependencies (assuming ADK is available):
@@ -59,7 +59,7 @@ The agents are equipped with the following tools to perform their complex tasks:
     ```
 4.  Run the main orchestrator script:
     ```bash
-    python nutrichef_orchestrator.py
+    python run_nutrichef.py
     ```
 
 ## ⭐ Value Statement
